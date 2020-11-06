@@ -1,3 +1,13 @@
+!------------------------------------------------------------------------------
+!                       Pokhara University
+!            Nepal College of Information Technology
+!               Department of Software Engineering
+!            
+!                Principles of Programming Language
+!             
+!          Author: Barsha Lamichhane(barsha.171711@ncit.edu.np)
+!------------------------------------------------------------------------------
+
 program currency_convert
 implicit none
 integer::choice
